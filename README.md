@@ -12,7 +12,7 @@
 
 
 
-<h3 align="center">E3D Dashboard</h3>
+<h3 align="center">E3D Dashboard - API</h3>
 
   <p align="center">
     project_description
